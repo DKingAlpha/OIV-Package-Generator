@@ -162,13 +162,15 @@ print('Once you make sure that everything looks good, hit ENTER to finish the fi
 input('PRESS ENTER TO CONTINUE...')
 
 ### Packing up
+shutils.copyfile(os.path.join(SCRIPT_BASE_DIR, 'icon.png'), os.path.join(GTA_V_PATH, OPG_WORKING_DIRECTORY, 'PKG', 'icon.png'))
+
 full_asm_xml = xml.dom.minidom.parse(os.path.join(SCRIPT_BASE_DIR, 'assembly-template.xml'))
 content_xml  = xml.dom.minidom.parse(os.path.join(SCRIPT_BASE_DIR, 'assembly-content.xml'))
 full_asm_xml.documentElement.appendChild(content_xml.documentElement)
 
 final_pretty_xml_as_string = full_asm_xml.toxml()
 final_xmlfile = open(os.path.join(GTA_V_PATH, OPG_WORKING_DIRECTORY, 'PKG', 'assembly.xml'), 'w')
-final_xmlfile.write(final_pretty_xml_as_string)
+final_xmlfile.write(fiinal_pretty_xml_as_string)
 final_xmlfile.close()
 
 def zip_folders(root, folders, zip_filename):
