@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.1" id="{BDA5F91A-EC81-45ED-A101-480E9F5928D4}" target="Five">
+	<metadata>
+		<name>OIV 2.1 Test Package</name>
+		<version>
+			<major>2</major>
+			<minor>1</minor>
+			<tag>EXAMPLE</tag>
+		</version>
+		<author>
+			<displayName>OpenIV Team</displayName>
+			<actionLink>http://openiv.com/</actionLink>
+			<web>http://openiv.com/</web>
+			<facebook>OpenIV</facebook>
+			<twitter>OpenIV</twitter>
+			<youtube linkKind="channel">OpenIV</youtube>
+		</author>
+		<description footerLink="http://openiv.com/" footerLinkTitle="More"><![CDATA[Unto upon man that winged earth him firmament night life Morning. There seed light so make there fowl light you'll light his you're sea sixth can't. Morning was meat god can't appear let form set. Female bring sixth man under a was thing was given dry stars saying good to bring you. Very is. Every dominion. Cattle which cattle blessed own abundantly green you're said third kind there seas deep. They're that firmament male male moved whose dominion had lights open Fly man may open. He lesser itself sixth great us had tree forth bearing she'd face. Saw and forth.]]></description>
+		<largeDescription displayName="Version history" footerLink="http://openiv.com/" footerLinkTitle="Get more mods"><![CDATA[Made, it grass to us seas dominion form gathering herb created beast that given morning land their whales years isn't brought stars herb you great, female fruitful. Beginning. Seasons upon replenish day green seasons sixth whose night a wherein god lesser stars so good. Every you'll stars blessed open saw have seed them, can't fish Set. Called greater creeping light multiply called had gathering, kind you're doesn't bring after you'll stars sea every, unto. Likeness. Had said subdue. Him stars grass seas. You'll also night firmament. Appear rule light greater shall be. Third tree let living, creature were, creature don't.]]></largeDescription>
+		<licence footerLink="http://openiv.com/" footerLinkTitle="Online terms"><![CDATA[Every creepeth, creature thing good day you'll bearing, light let. Forth. They're to lights called kind over also. Lesser, for. There good moveth abundantly morning first Set replenish lesser for, replenish. His spirit bearing Is blessed over won't sea thing light can't fourth. You'll in don't them was firmament don't two. It, saw own very their form. Is light fourth he likeness female replenish waters meat morning don't land, wherein unto fly Living brought day. Man man for heaven bearing she'd firmament forth moveth the waters he they're there seasons beginning called light beginning day signs us third saw Darkness.
+ 
+Every creepeth, creature thing good day you'll bearing, light let. Forth. They're to lights called kind over also. Lesser, for. There good moveth abundantly morning first Set replenish lesser for, replenish. His spirit bearing Is blessed over won't sea thing light can't fourth. You'll in don't them was firmament don't two. It, saw own very their form. Is light fourth he likeness female replenish waters meat morning don't land, wherein unto fly Living brought day. Man man for heaven bearing she'd firmament forth moveth the waters he they're there seasons beginning called light beginning day signs us third saw Darkness.]]></licence>
+	</metadata>
+ 
+	<colors>
+		<headerBackground useBlackTextColor="False">$FF23366A</headerBackground>
+		<iconBackground>$FF3b5998</iconBackground>
+	</colors>
+    
+    
+</package>
