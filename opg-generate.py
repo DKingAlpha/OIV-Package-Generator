@@ -170,7 +170,7 @@ full_asm_xml.documentElement.appendChild(content_xml.documentElement)
 
 final_pretty_xml_as_string = full_asm_xml.toxml()
 final_xmlfile = open(os.path.join(GTA_V_PATH, OPG_WORKING_DIRECTORY, 'PKG', 'assembly.xml'), 'w')
-final_xmlfile.write(fiinal_pretty_xml_as_string)
+final_xmlfile.write(final_pretty_xml_as_string)
 final_xmlfile.close()
 
 def zip_folders(root, folders, zip_filename):
